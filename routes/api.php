@@ -8,6 +8,9 @@ use App\Http\Controllers\User\GetController as UserGet;
 use App\Http\Controllers\Auth\LoginController as AuthLogin;
 // Email
 use App\Http\Controllers\Email\VerifyController as EmailVerify;
+// Geo
+use App\Http\Controllers\Geo\StoreController as GeoStore;
+use App\Http\Controllers\Geo\GetController as GeoGet;
 
 /*
 |--------------------------------------------------------------------------
@@ -26,6 +29,10 @@ Route::prefix('v1')->group(function () {
     });
     Route::prefix('user')->middleware(['auth:sanctum'])->group(function () {
         Route::get('/', UserGet::class);
+        Route::prefix('/geo')->group(function () {
+            Route::get('/', GeoGet::class);
+            Route::post('/', GeoStore::class);
+        });
     });
     Route::prefix('verify')->group(function () {
         Route::get('/{token}', EmailVerify::class);
