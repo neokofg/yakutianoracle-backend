@@ -2,6 +2,12 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+// User
+use App\Http\Controllers\User\GetController as UserGet;
+// Auth
+use App\Http\Controllers\Auth\LoginController as AuthLogin;
+// Email
+use App\Http\Controllers\Email\VerifyController as EmailVerify;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,6 +20,14 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
-    return $request->user();
+Route::prefix('v1')->group(function () {
+    Route::prefix('auth')->group(function () {
+        Route::post('/', AuthLogin::class);
+    });
+    Route::prefix('user')->middleware(['auth:sanctum'])->group(function () {
+        Route::get('/', UserGet::class);
+    });
+    Route::prefix('verify')->group(function () {
+        Route::get('/{token}', EmailVerify::class);
+    });
 });

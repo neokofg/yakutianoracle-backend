@@ -11,12 +11,11 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('users', function (Blueprint $table) {
+        Schema::create('trusted_ips', function (Blueprint $table) {
             $table->ulid('id')->primary();
-            $table->string('name');
-            $table->string('email')->unique();
-            $table->string('password');
             $table->timestamps();
+            $table->foreignUlid('user_id')->constrained('users')->cascadeOnDelete();
+            $table->ipAddress('ipv4');
         });
     }
 
@@ -25,6 +24,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('users');
+        Schema::dropIfExists('trusted_ips');
     }
 };
