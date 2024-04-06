@@ -42,7 +42,7 @@ class CitiesSeeder extends Seeder
             $ulid = DB::connection()->getPdo()->quote(strtolower(Ulid::generate()));
 
             $fid = $properties['fid'];
-            $sql = "INSERT INTO regions (id, fid, title, geometry) VALUES ({$ulid},{$fid},{$name},ST_GeomFromText($wkt, 4326));";
+            $sql = "INSERT INTO regions (id, fid, title, geometry) VALUES ({$ulid},{$fid},{$name},ST_GeomFromText($wkt, 3857));";
             DB::statement($sql);
         }
 
@@ -78,7 +78,7 @@ class CitiesSeeder extends Seeder
                 FROM regions
                 WHERE ST_Contains(
                     geometry::geometry,
-                    ST_GeomFromText(:pointWkt, 4326)::geometry
+                    ST_GeomFromText(:pointWkt, 3857)::geometry
                 )
             ",
             ['pointWkt' => $pointWkt]

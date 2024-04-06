@@ -16,7 +16,7 @@ return new class extends Migration
             $table->timestamps();
             $table->integer('fid')->unique();
             $table->string('title');
-            $table->multipolygon('geometry', 'geography',4326);
+            $table->multipolygon('geometry', 'geometry',3857);
 
         });
     }

@@ -20,8 +20,8 @@ class Geo extends Model
 
     protected $postgisTypes = [
         'geometry' => [
-            'geomtype' => 'geography',
-            'srid' => 4326
+            'geomtype' => 'geometry',
+            'srid' => 3857
         ],
     ];
 

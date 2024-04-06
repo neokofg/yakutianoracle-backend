@@ -6,6 +6,7 @@ use App\Http\Controllers\Controller;
 use App\Models\City;
 use App\Presenters\JsonPresenter;
 use Illuminate\Http\Request;
+use MStaack\LaravelPostgis\Geometries\Point;
 
 class GetController extends Controller
 {

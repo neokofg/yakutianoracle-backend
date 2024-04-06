@@ -40,7 +40,7 @@ class GeoSeeder extends Seeder
         $lat = $coordinates[0];
         $lon = $coordinates[1];
 
-        $nearestCity = City::select("id", DB::raw("geometry <-> ST_SetSRID(ST_MakePoint($lon, $lat), 4326) AS distance"))
+        $nearestCity = City::select("id", DB::raw("geometry <-> ST_SetSRID(ST_MakePoint($lon, $lat), 3857) AS distance"))
             ->orderBy('distance', 'ASC')
             ->first();
 
