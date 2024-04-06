@@ -15,7 +15,7 @@ return [
     |
     */
 
-    'paths' => ['api/*', 'sanctum/csrf-cookie', 'territory.geojson'],
+    'paths' => ['api/*', 'sanctum/csrf-cookie', 'territory.geojson', '*'],
 
     'allowed_methods' => ['*'],
 
