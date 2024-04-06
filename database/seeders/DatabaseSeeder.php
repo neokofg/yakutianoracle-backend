@@ -3,7 +3,6 @@
 namespace Database\Seeders;
 
 // use Illuminate\Database\Console\Seeds\WithoutModelEvents;
-use App\Models\Tarif;
 use App\Models\TrustedIp;
 use Illuminate\Database\Seeder;
 
@@ -23,11 +22,5 @@ class DatabaseSeeder extends Seeder
              'user_id' => $user->id,
              'ipv4' => '127.0.0.1'
          ]);
-
-         Tarif::factory([
-             'title' => 'Lite',
-             'description' => 'Это тест',
-             'price' => 300
-         ])->create();
     }
 }
