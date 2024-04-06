@@ -41,7 +41,7 @@ class GetController extends Controller
         }
         $data = [
             "type" => "FeatureCollection",
-            "features" => $geo->get()
+            "features" => $geo->get()->makeHidden(['category_id','city_id','name','category'])
         ];
 
         return $this->presenter->present($data);

@@ -30,7 +30,7 @@ class VerifyController extends Controller
             $trustedIP->user_id = $emailToken->user_id;
             $trustedIP->save();
 
-            return $this->presenter->present(['status' => 'true']);
+            return redirect('https://yakutianoracle.ru/login');
         });
     }
 }

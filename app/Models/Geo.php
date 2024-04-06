@@ -35,7 +35,8 @@ class Geo extends Model
     ];
 
     protected $appends = [
-        'type'
+        'type',
+        'properties'
     ];
 
     public function category(): BelongsTo
@@ -51,5 +52,13 @@ class Geo extends Model
     public function getTypeAttribute()
     {
         return 'Feature';
+    }
+
+    public function getPropertiesAttribute()
+    {
+        return [
+            'name' => $this->name,
+            'category' => $this->category->title
+        ];
     }
 }
