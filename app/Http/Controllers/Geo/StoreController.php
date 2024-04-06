@@ -34,10 +34,8 @@ class StoreController extends Controller
         switch ($dataType) {
             case 'one':
                 return $this->importOneGeo($request);
-                break;
             case 'multiple':
                 return $this->importMultipleGeo($request);
-                break;
             default:
                 return ['status' => false, 'message' => 'Неверный dataType!'];
         }
@@ -53,7 +51,8 @@ class StoreController extends Controller
         ]);
         [$lat,$lon] = $this->getLocation($request->location);
         Geo::create([
-            'location' => new Point($lat,$lon),
+            'geometry' => new Point($lat,$lon),
+            'name' => $request->name,
             'properties' => json_encode($request->properties),
             'category_id' => $category->id,
             'city_id' => $city->id
@@ -72,7 +71,8 @@ class StoreController extends Controller
             ]);
             [$lat,$lon] = $this->getLocation($geo['location']);
             Geo::create([
-                'location' => new Point($lat,$lon),
+                'geometry' => new Point($lat,$lon),
+                'name' => $geo['name'],
                 'properties' => json_encode($geo['properties']),
                 'category_id' => $category->id,
                 'city_id' => $city->id

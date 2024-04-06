@@ -14,7 +14,8 @@ return new class extends Migration
         Schema::create('geo', function (Blueprint $table) {
             $table->ulid('id')->primary();
             $table->timestamps();
-            $table->point('location','geography',4326);
+            $table->string('name')->nullable();
+            $table->point('geometry','geometry',3857);
             $table->jsonb('properties');
             $table->foreignUlid('category_id')->constrained('categories')->cascadeOnDelete();
             $table->foreignUlid('city_id')->constrained('cities')->cascadeOnDelete();

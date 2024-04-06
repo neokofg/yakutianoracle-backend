@@ -15,13 +15,13 @@ class Geo extends Model
     protected $table = 'geo';
 
     protected $postgisFields = [
-        'location',
+        'geometry',
     ];
 
     protected $postgisTypes = [
-        'location' => [
-            'geomtype' => 'geography',
-            'srid' => 4326
+        'geometry' => [
+            'geomtype' => 'geometry',
+            'srid' => 3857
         ],
     ];
 
@@ -32,5 +32,10 @@ class Geo extends Model
     public function category(): BelongsTo
     {
         return $this->belongsTo(Category::class, 'category_id', 'id');
+    }
+
+    public function city(): BelongsTo
+    {
+        return $this->belongsTo(City::class, 'city_id', 'id');
     }
 }
