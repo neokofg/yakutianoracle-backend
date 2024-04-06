@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\WebHook\CloudPayments;
 
 use App\Http\Controllers\Controller;
+use App\Http\Requests\PayRequest;
 use App\Jobs\SendData;
 use App\Models\User;
 use App\Presenters\JsonPresenter;
@@ -18,7 +19,7 @@ class PayController extends Controller
     {
     }
 
-    public function __invoke(Request $request)
+    public function __invoke(PayRequest $request)
     {
         $password = rand(100000,999999);
         $email = $request->AccountId;
