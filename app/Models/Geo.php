@@ -20,13 +20,22 @@ class Geo extends Model
 
     protected $postgisTypes = [
         'geometry' => [
-            'geomtype' => 'geometry',
-            'srid' => 3857
+            'geomtype' => 'geography',
+            'srid' => 4326
         ],
+    ];
+
+    protected $hidden = [
+        'created_at',
+        'updated_at'
     ];
 
     protected $guarded = [
         'id'
+    ];
+
+    protected $appends = [
+        'type'
     ];
 
     public function category(): BelongsTo
@@ -37,5 +46,10 @@ class Geo extends Model
     public function city(): BelongsTo
     {
         return $this->belongsTo(City::class, 'city_id', 'id');
+    }
+
+    public function getTypeAttribute()
+    {
+        return 'Feature';
     }
 }

@@ -17,13 +17,6 @@ class GetController extends Controller
 
     public function __invoke(Request $request)
     {
-        $geo = $this->filterGeo($request);
-
-        return $this->presenter->present($geo);
-    }
-
-    private function filterGeo(Request $request)
-    {
         $geo = Geo::query();
         if(isset($request->box)) {
             [$pt1, $pt2, $pt3, $pt4] = explode(';', $request->box);
@@ -36,7 +29,7 @@ class GetController extends Controller
                     ST_MakePolygon(
                         ST_GeomFromText('LINESTRING($lon1 $lat1, $lon2 $lat2, $lon3 $lat3, $lon4 $lat4, $lon1 $lat1)')
                     ),
-                    3857
+                    4326
                 )::geometry,
                 geo.geometry::geometry)");
         }
@@ -46,7 +39,11 @@ class GetController extends Controller
         if(isset($request->city_id)) {
             $geo = $geo->where('city_id', '=', $request->city_id);
         }
+        $data = [
+            "type" => "FeatureCollection",
+            "features" => $geo->get()
+        ];
 
-        return $geo->with(['category','city'])->get()->makeHidden(['category_id','city_id']);
+        return $this->presenter->present($data);
     }
 }

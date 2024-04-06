@@ -22,5 +22,12 @@ class DatabaseSeeder extends Seeder
              'user_id' => $user->id,
              'ipv4' => '127.0.0.1'
          ]);
+
+         $this->call([
+             CitiesSeeder::class,
+             TransportSeeder::class,
+             YearRoundSeeder::class,
+             GeoSeeder::class
+         ]);
     }
 }

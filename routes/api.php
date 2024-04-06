@@ -14,6 +14,10 @@ use App\Http\Controllers\Geo\GetController as GeoGet;
 use App\Http\Controllers\Geo\DeleteController as GeoDelete;
 // CloudPayments
 use App\Http\Controllers\WebHook\CloudPayments\PayController as CPPay;
+// Region
+use App\Http\Controllers\Region\GetController as RegionGet;
+// City
+use App\Http\Controllers\City\GetController as CityGet;
 
 /*
 |--------------------------------------------------------------------------
@@ -36,6 +40,12 @@ Route::prefix('v1')->group(function () {
             Route::get('/', GeoGet::class);
             Route::post('/', GeoStore::class);
             Route::delete('/{id}', GeoDelete::class);
+            Route::prefix('regions')->group(function () {
+                Route::get('/', RegionGet::class);
+            });
+            Route::prefix('cities')->group(function () {
+                Route::get('/', CityGet::class);
+            });
         });
     });
     Route::prefix('/webhook')->group(function () {

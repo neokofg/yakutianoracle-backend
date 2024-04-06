@@ -5,10 +5,23 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Concerns\HasUlids;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\HasMany;
+use MStaack\LaravelPostgis\Eloquent\PostgisTrait;
 
 class City extends Model
 {
-    use HasFactory, HasUlids;
+    use HasFactory, HasUlids, PostgisTrait;
+
+    protected $postgisFields = [
+        'geometry',
+    ];
+
+    protected $postgisTypes = [
+        'geometry' => [
+            'geomtype' => 'geography',
+            'srid' => 4326
+        ],
+    ];
 
     protected $table = 'cities';
 
@@ -20,4 +33,25 @@ class City extends Model
     protected $guarded = [
         'id'
     ];
+
+    protected $appends = [
+        'type',
+        'properties'
+    ];
+
+
+    public function year_rounds(): HasMany
+    {
+        return $this->hasMany(YearRound::class, 'city_id', 'id');
+    }
+
+    public function transports(): HasMany
+    {
+        return $this->hasMany(Transport::class, 'city_id', 'id');
+    }
+
+    public function getTypeAttribute()
+    {
+        return 'Feature';
+    }
 }

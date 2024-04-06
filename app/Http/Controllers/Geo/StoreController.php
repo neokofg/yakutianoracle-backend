@@ -53,7 +53,6 @@ class StoreController extends Controller
         Geo::create([
             'geometry' => new Point($geo[0],$geo[1]),
             'name' => $request->name,
-            'properties' => json_encode($request->properties),
             'category_id' => $category->id,
             'city_id' => $city->id
         ]);
@@ -72,7 +71,6 @@ class StoreController extends Controller
             Geo::create([
                 'geometry' => new Point($geo['location'][0],$geo['location'][1]),
                 'name' => $geo['name'],
-                'properties' => json_encode($geo['properties']),
                 'category_id' => $category->id,
                 'city_id' => $city->id
             ]);

@@ -15,8 +15,7 @@ return new class extends Migration
             $table->ulid('id')->primary();
             $table->timestamps();
             $table->string('name')->nullable();
-            $table->point('geometry','geometry',3857);
-            $table->jsonb('properties');
+            $table->point('geometry','geography',4326);
             $table->foreignUlid('category_id')->constrained('categories')->cascadeOnDelete();
             $table->foreignUlid('city_id')->constrained('cities')->cascadeOnDelete();
         });
