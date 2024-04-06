@@ -53,6 +53,9 @@ Route::prefix('v1')->group(function () {
             });
         });
     });
+    Route::get('/territory', function () {
+        return file_get_contents(storage_path('/app/public/territory.geojson'));
+    });
     Route::prefix('/webhook')->group(function () {
         Route::post('/pay', CPPay::class);
     });
