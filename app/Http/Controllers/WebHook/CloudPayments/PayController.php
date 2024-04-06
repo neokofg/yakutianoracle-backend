@@ -7,8 +7,8 @@ use App\Http\Requests\PayRequest;
 use App\Jobs\SendData;
 use App\Models\User;
 use App\Presenters\JsonPresenter;
+use Exception;
 use Faker\Provider\ru_RU\Person;
-use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
 
 class PayController extends Controller
@@ -21,14 +21,29 @@ class PayController extends Controller
 
     public function __invoke(PayRequest $request)
     {
-        $password = rand(100000,999999);
+        $password = $this->random_str(10);
         $email = $request->AccountId;
         User::create([
             'name' => Person::firstNameMale(),
             'email' => $email,
-            'password' => Hash::make($password),
+            'password' => $password,
         ]);
         SendData::dispatch($email,$password)->onQueue('default');
         return $this->presenter->present(['code' => 0]);
+    }
+
+    function random_str(
+        $length,
+        $keyspace = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
+    ) {
+        $str = '';
+        $max = mb_strlen($keyspace, '8bit') - 1;
+        if ($max < 1) {
+            throw new Exception('$keyspace must be at least two characters long');
+        }
+        for ($i = 0; $i < $length; ++$i) {
+            $str .= $keyspace[random_int(0, $max)];
+        }
+        return $str;
     }
 }
