@@ -49,9 +49,9 @@ class StoreController extends Controller
         $city = City::firstOrCreate([
             'title' => strtolower($request->city)
         ]);
-        [$lat,$lon] = $this->getLocation($request->location);
+        $geo = $request->location;
         Geo::create([
-            'geometry' => new Point($lat,$lon),
+            'geometry' => new Point($geo[0],$geo[1]),
             'name' => $request->name,
             'properties' => json_encode($request->properties),
             'category_id' => $category->id,
@@ -69,9 +69,8 @@ class StoreController extends Controller
             $city = City::firstOrCreate([
                 'title' => strtolower($geo['city'])
             ]);
-            [$lat,$lon] = $this->getLocation($geo['location']);
             Geo::create([
-                'geometry' => new Point($lat,$lon),
+                'geometry' => new Point($geo['location'][0],$geo['location'][1]),
                 'name' => $geo['name'],
                 'properties' => json_encode($geo['properties']),
                 'category_id' => $category->id,
@@ -79,13 +78,5 @@ class StoreController extends Controller
             ]);
         }
         return ['status' => true, 'message' => 'Импортировано успешно!'];
-    }
-
-    private function getLocation(string $location)
-    {
-        $arr = explode(',', $location);
-        $lat = floatval($arr[0]);
-        $lon = floatval($arr[1]);
-        return [$lat,$lon];
     }
 }

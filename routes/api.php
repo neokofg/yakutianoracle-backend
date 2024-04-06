@@ -11,6 +11,7 @@ use App\Http\Controllers\Email\VerifyController as EmailVerify;
 // Geo
 use App\Http\Controllers\Geo\StoreController as GeoStore;
 use App\Http\Controllers\Geo\GetController as GeoGet;
+use App\Http\Controllers\Geo\DeleteController as GeoDelete;
 
 /*
 |--------------------------------------------------------------------------
@@ -32,6 +33,7 @@ Route::prefix('v1')->group(function () {
         Route::prefix('/geo')->group(function () {
             Route::get('/', GeoGet::class);
             Route::post('/', GeoStore::class);
+            Route::delete('/{id}', GeoDelete::class);
         });
     });
     Route::prefix('verify')->group(function () {

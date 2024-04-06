@@ -38,7 +38,7 @@ class GetController extends Controller
                     ),
                     3857
                 )::geometry,
-                geo.location::geometry)");
+                geo.geometry::geometry)");
         }
         if(isset($request->category_id)) {
             $geo = $geo->where('category_id', '=', $request->category_id);
