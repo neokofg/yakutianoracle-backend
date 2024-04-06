@@ -50,6 +50,11 @@ class City extends Model
         return $this->hasMany(Transport::class, 'city_id', 'id');
     }
 
+    public function geos(): HasMany
+    {
+        return $this->hasMany(Geo::class, 'city_id', 'id');
+    }
+
     public function getTypeAttribute()
     {
         return 'Feature';

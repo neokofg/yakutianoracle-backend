@@ -17,6 +17,11 @@ class YearRound extends Model
         'id'
     ];
 
+    protected $hidden = [
+        'id',
+        'created_at',
+        'updated_at'
+    ];
     public function city(): BelongsTo
     {
         return $this->belongsTo(City::class, 'city_id', 'id');

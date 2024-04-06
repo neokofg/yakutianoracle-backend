@@ -39,9 +39,13 @@ class GetController extends Controller
             $features[] = [
                 'type' => 'Feature',
                 'properties' => [
-                    'fid' => $city->fid,
+                    'id' => $city->id,
                     'name' => $city->title,
-                    'transport' => $city->transports()->first()
+                    'transport' => $city->transports()->first(),
+                    'year_round_rating' => $city->year_round_rating,
+                    'population' => $city->population,
+                    'year_rounds' => $city->year_rounds,
+                    'place' => $city->place
                 ],
                 'geometry' => $city->geometry
             ];

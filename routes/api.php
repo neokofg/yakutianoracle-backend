@@ -18,6 +18,8 @@ use App\Http\Controllers\WebHook\CloudPayments\PayController as CPPay;
 use App\Http\Controllers\Region\GetController as RegionGet;
 // City
 use App\Http\Controllers\City\GetController as CityGet;
+// Statistics
+use App\Http\Controllers\Statistics\GetController as StatisticsGet;
 
 /*
 |--------------------------------------------------------------------------
@@ -45,6 +47,9 @@ Route::prefix('v1')->group(function () {
             });
             Route::prefix('cities')->group(function () {
                 Route::get('/', CityGet::class);
+            });
+            Route::prefix('/statistics')->group(function () {
+                Route::get('/{city_id}', StatisticsGet::class);
             });
         });
     });

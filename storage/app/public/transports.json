@@ -1,959 +1,147 @@
 [
  {
-  "city": "Заря",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": true
- },
- {
-  "city": "Урицкое",
-  "rating": 0,
+  "city": "Покровка",
+  "rating": 2,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Развилка",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Кыстатыам",
-  "rating": 0,
+  "city": "Балагаччы",
+  "rating": 2,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
- },
- {
-  "city": "Сатагай",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Джаргалах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Тарат",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 5,
-  "road_nearby": true
- },
- {
-  "city": "Орочен 1-й",
-  "rating": 10,
-  "airport_nearby": true,
-  "bus_stations": 113,
-  "road_nearby": true
- },
- {
-  "city": "Тумул",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 5,
-  "road_nearby": false
- },
- {
-  "city": "Промкомбинат",
-  "rating": 3,
-  "airport_nearby": false,
-  "bus_stations": 26,
-  "road_nearby": false
- },
- {
-  "city": "Орто-Балаган",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Харбала 2-я",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Хомустах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Буор-Сысы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Оленёк",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 2,
-  "road_nearby": true
- },
- {
-  "city": "Кюсюр",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Бютяй-Юрдя",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 49,
-  "road_nearby": false
- },
- {
-  "city": "Липпе-Атах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Уорай",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Маягас",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Усть-Янск",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Капитоновка",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 33,
-  "road_nearby": false
- },
- {
-  "city": "Хордогой",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сайылык",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Арылах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Хани",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Артык",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Улахан-Ан",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Арылах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Тамалакан",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 4,
-  "road_nearby": true
  },
  {
   "city": "Эйик",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сарданга",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Томмот",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 50,
-  "road_nearby": true
- },
- {
-  "city": "Дябыла",
   "rating": 1,
   "airport_nearby": false,
-  "bus_stations": 2,
-  "road_nearby": true
+  "bus_stations": 0,
+  "road_nearby": false
  },
  {
-  "city": "Амбарчик",
-  "rating": 0,
+  "city": "Ары-Толон",
+  "rating": 2,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Томтор",
-  "rating": 0,
+  "city": "Кескил",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Куокуну",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Оюсут",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Полярный",
+  "rating": 8,
   "airport_nearby": true,
-  "bus_stations": 0,
+  "bus_stations": 11,
   "road_nearby": false
  },
  {
-  "city": "Нюя",
-  "rating": 0,
+  "city": "Кильдямцы",
+  "rating": 4,
   "airport_nearby": false,
-  "bus_stations": 0,
+  "bus_stations": 113,
   "road_nearby": false
  },
  {
-  "city": "Павловск",
-  "rating": 5,
-  "airport_nearby": false,
-  "bus_stations": 15,
+  "city": "Ленск",
+  "rating": 10,
+  "airport_nearby": true,
+  "bus_stations": 99,
   "road_nearby": true
  },
  {
-  "city": "Алтанцы",
-  "rating": 0,
+  "city": "Чаранг",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 20,
+  "road_nearby": false
+ },
+ {
+  "city": "Алысардах",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Заречный",
+  "rating": 8,
+  "airport_nearby": true,
+  "bus_stations": 66,
+  "road_nearby": false
+ },
+ {
+  "city": "Турукта",
+  "rating": 2,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Май",
-  "rating": 5,
+  "city": "Сосновка",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": true
+ },
+ {
+  "city": "Бердигестях",
+  "rating": 4,
   "airport_nearby": false,
   "bus_stations": 32,
   "road_nearby": true
  },
  {
-  "city": "Бала",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Алдан",
-  "rating": 10,
-  "airport_nearby": true,
-  "bus_stations": 115,
-  "road_nearby": true
- },
- {
-  "city": "Сага",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кочегарово",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Елечей",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 3,
-  "road_nearby": false
- },
- {
-  "city": "Крест-Хальджай",
-  "rating": 0,
+  "city": "Килиер",
+  "rating": 2,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
   "city": "Олом",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Белькачи",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Орочен 2-й",
-  "rating": 10,
-  "airport_nearby": true,
-  "bus_stations": 113,
-  "road_nearby": true
- },
- {
-  "city": "Орто-Сурт",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Батамай",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Мастах 2-й",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Михалкино",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Депутатский",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 2,
-  "road_nearby": false
- },
- {
-  "city": "Куйдусун",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сасыр",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Далы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Старая Табага",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 174,
-  "road_nearby": false
- },
- {
-  "city": "Тинная",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сатагай",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Дорожный",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": true
- },
- {
-  "city": "Матта",
   "rating": 2,
   "airport_nearby": false,
-  "bus_stations": 5,
-  "road_nearby": false
- },
- {
-  "city": "Бестях",
-  "rating": 2,
-  "airport_nearby": false,
-  "bus_stations": 21,
-  "road_nearby": false
- },
- {
-  "city": "Хоробут",
-  "rating": 0,
-  "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Верхняя Амга",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Иенгра",
-  "rating": 0,
-  "airport_nearby": false,
+  "city": "Аэропорт",
+  "rating": 6,
+  "airport_nearby": true,
   "bus_stations": 4,
   "road_nearby": true
  },
  {
-  "city": "Балаганнах",
-  "rating": 0,
+  "city": "Тюнгюлю",
+  "rating": 3,
   "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Усть-Миль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Пригородный",
-  "rating": 10,
-  "airport_nearby": true,
-  "bus_stations": 685,
+  "bus_stations": 5,
   "road_nearby": true
  },
  {
-  "city": "Мирный",
-  "rating": 9,
-  "airport_nearby": true,
-  "bus_stations": 61,
-  "road_nearby": true
- },
- {
-  "city": "Джебарики-Хая",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Жархан",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Оргёт",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Уолба",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Удачный",
+  "city": "Джаргалах",
   "rating": 2,
-  "airport_nearby": false,
-  "bus_stations": 22,
-  "road_nearby": true
- },
- {
-  "city": "Мар-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Оросу",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 4,
-  "road_nearby": true
- },
- {
-  "city": "Арылах (Жархан)",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Лёкёчён",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Нюрбачан",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Воин",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 2,
-  "road_nearby": false
- },
- {
-  "city": "Солянка",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 10,
-  "road_nearby": false
- },
- {
-  "city": "Намы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сюля",
-  "rating": 10,
-  "airport_nearby": true,
-  "bus_stations": 76,
-  "road_nearby": true
- },
- {
-  "city": "Балагаччы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Дикимдя",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Бедемё",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 3,
-  "road_nearby": false
- },
- {
-  "city": "Троицк",
-  "rating": 8,
-  "airport_nearby": true,
-  "bus_stations": 27,
-  "road_nearby": false
- },
- {
-  "city": "Магарас",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 2,
-  "road_nearby": true
- },
- {
-  "city": "Бетенкёс",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Лебия",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Мындагай",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Якокут",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Батамай",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Суола",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 3,
-  "road_nearby": false
- },
- {
-  "city": "Талакан",
-  "rating": 1,
-  "airport_nearby": true,
-  "bus_stations": 5,
-  "road_nearby": false
- },
- {
-  "city": "Тумул",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 5,
-  "road_nearby": true
- },
- {
-  "city": "Куранда",
-  "rating": 3,
-  "airport_nearby": false,
-  "bus_stations": 18,
-  "road_nearby": false
- },
- {
-  "city": "Сватай",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Эльгяй",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Моркока",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Ленинский",
-  "rating": 10,
-  "airport_nearby": true,
-  "bus_stations": 119,
-  "road_nearby": true
- },
- {
-  "city": "Орто-Нахара",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Натора",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Тумул",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 5,
-  "road_nearby": false
- },
- {
-  "city": "Оймякон",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Фрунзе",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 4,
-  "road_nearby": false
- },
- {
-  "city": "Илбенге",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Охотский-Перевоз",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Арыктах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Техтюр",
-  "rating": 3,
-  "airport_nearby": false,
-  "bus_stations": 15,
-  "road_nearby": false
- },
- {
-  "city": "Чакыр 2-й",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 3,
-  "road_nearby": false
- },
- {
-  "city": "Сайылык",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Оннёс",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Жилинда",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Сыаганнах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Даккы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Устье",
-  "rating": 10,
-  "airport_nearby": true,
-  "bus_stations": 26,
-  "road_nearby": true
- },
- {
-  "city": "Балаганнах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Аллах-Юнь",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Бясь-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Эселях",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Арангастах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Нуорагана",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 2,
-  "road_nearby": true
- },
- {
-  "city": "Якутск",
-  "rating": 10,
-  "airport_nearby": true,
-  "bus_stations": 694,
-  "road_nearby": true
- },
- {
-  "city": "Быракан",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Мегино-Алдан",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Тыайа",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сунтар",
-  "rating": 3,
-  "airport_nearby": true,
-  "bus_stations": 26,
-  "road_nearby": true
- },
- {
-  "city": "Харыялах",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 2,
-  "road_nearby": true
- },
- {
-  "city": "Сентачан",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Усть-Оленёк",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Якокит",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 2,
-  "road_nearby": true
- },
- {
-  "city": "Угольное",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Булгунняхтах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 6,
-  "road_nearby": false
- },
- {
-  "city": "Суордах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Мачах",
-  "rating": 0,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
@@ -966,948 +154,59 @@
   "road_nearby": false
  },
  {
-  "city": "Хоточчу",
+  "city": "Быранатталах",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Бедемё",
   "rating": 3,
-  "airport_nearby": false,
-  "bus_stations": 13,
-  "road_nearby": true
- },
- {
-  "city": "Серебряный Бор",
-  "rating": 5,
-  "airport_nearby": false,
-  "bus_stations": 95,
-  "road_nearby": true
- },
- {
-  "city": "Ыллымах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Соболох",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Чурапча",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 2,
-  "road_nearby": true
- },
- {
-  "city": "Староватово",
-  "rating": 2,
-  "airport_nearby": true,
-  "bus_stations": 11,
-  "road_nearby": true
- },
- {
-  "city": "Кюёрелях",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Еланка",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Быковский",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сайды",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 27,
-  "road_nearby": true
- },
- {
-  "city": "Нюя Северная",
-  "rating": 6,
-  "airport_nearby": true,
-  "bus_stations": 65,
-  "road_nearby": true
- },
- {
-  "city": "Михайловка",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кюбяинде",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Дельгей",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Танда",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Майя",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 5,
-  "road_nearby": false
- },
- {
-  "city": "Хатынг-Тумул",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Чериктей",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Тюнгюлю",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 5,
-  "road_nearby": true
- },
- {
-  "city": "Югорёнок",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Кустур",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Тумат",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Тектюр",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 2,
-  "road_nearby": true
- },
- {
-  "city": "Болугур",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Малыкан",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Покровка",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Амга",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 26,
-  "road_nearby": false
- },
- {
-  "city": "Дюллюкю",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 2,
-  "road_nearby": false
- },
- {
-  "city": "Бетюнцы",
-  "rating": 1,
   "airport_nearby": false,
   "bus_stations": 3,
   "road_nearby": false
  },
  {
-  "city": "Марха",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Себян-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Улу",
-  "rating": 0,
+  "city": "Илбенге",
+  "rating": 3,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": true
  },
  {
-  "city": "Ары-Тит",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Кысыл-Деревня",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 55,
-  "road_nearby": false
- },
- {
-  "city": "Харбала",
-  "rating": 0,
+  "city": "Сатагай",
+  "rating": 2,
   "airport_nearby": false,
   "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Боробул",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Кяччи",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 12,
-  "road_nearby": false
- },
- {
-  "city": "Чыаппара",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Тэгэн",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Хатас",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Тяня",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Серге-Бес",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Хапчагай",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Аэропорт",
-  "rating": 1,
-  "airport_nearby": true,
-  "bus_stations": 4,
-  "road_nearby": true
- },
- {
-  "city": "Диринг",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 2,
-  "road_nearby": false
- },
- {
-  "city": "Хампа",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Чульман",
-  "rating": 7,
-  "airport_nearby": true,
-  "bus_stations": 28,
-  "road_nearby": true
- },
- {
-  "city": "Алысардах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
   "road_nearby": false
  },
  {
   "city": "Хомустах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Тополиное",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кюндяде",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 6,
-  "road_nearby": true
- },
- {
-  "city": "Кутана",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Ефремово",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кальвица",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кындал",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Эсэ-Хайя",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Мырыла",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Чюйя",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 5,
-  "road_nearby": false
- },
- {
-  "city": "Алысардах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Вилюйск",
-  "rating": 2,
-  "airport_nearby": true,
-  "bus_stations": 11,
-  "road_nearby": true
- },
- {
-  "city": "Куберганя",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Верхоянск",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Булун",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кобяй",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сырдах",
-  "rating": 8,
-  "airport_nearby": true,
-  "bus_stations": 156,
-  "road_nearby": false
- },
- {
-  "city": "Ломтука",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Лазо",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Багадя",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Светлый",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 7,
-  "road_nearby": false
- },
- {
-  "city": "Нерюктяйинск 2-й",
   "rating": 3,
-  "airport_nearby": false,
-  "bus_stations": 11,
-  "road_nearby": false
- },
- {
-  "city": "Ботулу",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Верхний Куранах",
-  "rating": 10,
-  "airport_nearby": true,
-  "bus_stations": 98,
-  "road_nearby": true
- },
- {
-  "city": "Арылах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Жатай",
-  "rating": 8,
-  "airport_nearby": true,
-  "bus_stations": 307,
-  "road_nearby": false
- },
- {
-  "city": "Суола",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 3,
-  "road_nearby": false
- },
- {
-  "city": "Абага",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Уорга",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Иннях",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Хатырык-Хомо",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Табага",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 3,
-  "road_nearby": false
- },
- {
-  "city": "Кысыл-Сыр",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Андреевский",
-  "rating": 1,
-  "airport_nearby": true,
-  "bus_stations": 5,
-  "road_nearby": true
- },
- {
-  "city": "Нижний Бестях",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 13,
-  "road_nearby": true
- },
- {
-  "city": "Тала",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сюльдюкар",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Октёмцы",
-  "rating": 2,
-  "airport_nearby": false,
-  "bus_stations": 13,
-  "road_nearby": false
- },
- {
-  "city": "Агаякан",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Усть-Нера",
-  "rating": 2,
-  "airport_nearby": false,
-  "bus_stations": 10,
-  "road_nearby": true
- },
- {
-  "city": "Хомустах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Большой Нимныр",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": true
- },
- {
-  "city": "Толон",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Затон ЛОРПа",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 68,
-  "road_nearby": false
- },
- {
-  "city": "Маралайы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 2,
-  "road_nearby": true
- },
- {
-  "city": "Сангар",
-  "rating": 3,
-  "airport_nearby": true,
-  "bus_stations": 31,
-  "road_nearby": false
- },
- {
-  "city": "Черкёх",
-  "rating": 0,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": true
  },
  {
   "city": "Верхнеколымск",
-  "rating": 4,
+  "rating": 7,
   "airport_nearby": true,
   "bus_stations": 12,
   "road_nearby": true
  },
  {
-  "city": "Тюмяти",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кысыл-Сыр",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Хочо",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Май",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 32,
-  "road_nearby": false
- },
- {
-  "city": "Мяндийе",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 2,
-  "road_nearby": true
- },
- {
-  "city": "Нуочаха",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сосновка",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": true
- },
- {
-  "city": "Кюнде",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 3,
-  "road_nearby": true
- },
- {
-  "city": "Аллага",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Олом-Кюёле",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Суччино",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сыгыннах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Хоринцы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Хаптагай",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Витим",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Кыстык-Кугда",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Бердинка",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 11,
-  "road_nearby": false
- },
- {
-  "city": "Кулун-Елбют",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Ситте",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кюндяе",
-  "rating": 5,
-  "airport_nearby": true,
-  "bus_stations": 26,
-  "road_nearby": true
- },
- {
-  "city": "Тумул",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 5,
-  "road_nearby": false
- },
- {
-  "city": "Куокуну",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Саныяхтах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Абага Центральная",
+  "city": "Тонгулах",
   "rating": 2,
   "airport_nearby": false,
-  "bus_stations": 13,
-  "road_nearby": false
- },
- {
-  "city": "Усун-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Бёкё",
-  "rating": 0,
+  "city": "Улах-Ан",
+  "rating": 4,
   "airport_nearby": false,
-  "bus_stations": 5,
-  "road_nearby": false
- },
- {
-  "city": "Кердюген",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Килянки",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Салтаны",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 4,
-  "road_nearby": true
- },
- {
-  "city": "Чумпу-Кытыл",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Барылас",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Ёкюндю",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Звёздочка",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Куду-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сырдах",
-  "rating": 8,
-  "airport_nearby": true,
-  "bus_stations": 156,
-  "road_nearby": false
- },
- {
-  "city": "Улахан-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Заречный",
-  "rating": 8,
-  "airport_nearby": true,
-  "bus_stations": 66,
-  "road_nearby": false
- },
- {
-  "city": "Багадя",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Нерюктяйинск 1-й",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 5,
+  "bus_stations": 47,
   "road_nearby": false
  },
  {
@@ -1918,1394 +217,106 @@
   "road_nearby": false
  },
  {
-  "city": "Кысыл-Юрюйя",
-  "rating": 5,
+  "city": "Диринг",
+  "rating": 3,
   "airport_nearby": false,
-  "bus_stations": 28,
-  "road_nearby": true
- },
- {
-  "city": "Нижнеянск",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 1,
+  "bus_stations": 2,
   "road_nearby": false
  },
  {
-  "city": "Аппаны",
+  "city": "Толон",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Арылах (Жархан)",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Владимировка",
   "rating": 4,
   "airport_nearby": false,
-  "bus_stations": 55,
+  "bus_stations": 68,
   "road_nearby": false
  },
  {
-  "city": "Ленск",
-  "rating": 10,
-  "airport_nearby": true,
-  "bus_stations": 99,
-  "road_nearby": true
- },
- {
-  "city": "Киров",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 4,
-  "road_nearby": false
- },
- {
-  "city": "Айхал",
-  "rating": 0,
+  "city": "Даппарай",
+  "rating": 3,
   "airport_nearby": false,
   "bus_stations": 11,
   "road_nearby": false
  },
  {
-  "city": "Тит-Ары",
+  "city": "Амбарчик",
   "rating": 0,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Туобуя",
-  "rating": 0,
+  "city": "Арылах",
+  "rating": 2,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Бярийе",
-  "rating": 0,
+  "city": "Усун-Кюёль",
+  "rating": 2,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
- },
- {
-  "city": "Аргахтах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Дярла",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 2,
-  "road_nearby": true
- },
- {
-  "city": "Дёску",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Маган",
-  "rating": 10,
-  "airport_nearby": true,
-  "bus_stations": 105,
-  "road_nearby": true
- },
- {
-  "city": "Бютейдях",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 3,
-  "road_nearby": false
- },
- {
-  "city": "Едей",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Ары-Толон",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Тёплый Ключ",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 4,
-  "road_nearby": true
- },
- {
-  "city": "Тумул",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 5,
-  "road_nearby": false
- },
- {
-  "city": "Бирюк",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 5,
-  "road_nearby": false
- },
- {
-  "city": "Ой",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 61,
-  "road_nearby": false
- },
- {
-  "city": "Ергёлёх",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Юрюнг-Хая",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Троицк",
-  "rating": 8,
-  "airport_nearby": true,
-  "bus_stations": 27,
-  "road_nearby": false
- },
- {
-  "city": "Покровск",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 65,
-  "road_nearby": false
- },
- {
-  "city": "Нерюктяй",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Абага",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Рассолода",
-  "rating": 5,
-  "airport_nearby": false,
-  "bus_stations": 12,
-  "road_nearby": true
- },
- {
-  "city": "Оленегорск",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Таймылыр",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Чайыгда",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Алеко-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Хатассы",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 435,
-  "road_nearby": false
- },
- {
-  "city": "Батагай",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сайды",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 27,
-  "road_nearby": false
- },
- {
-  "city": "Ерт",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Бысыттах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Люксюгюн",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Далыр",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Алмазный",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 4,
-  "road_nearby": true
- },
- {
-  "city": "Бордон 3-й",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Уянди",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Кутана",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Быранатталах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Мастах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Хайысардах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Утая",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Батагай-Алыта",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Томтор",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Комсомол",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
  },
  {
   "city": "Дыгдал",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Турукта",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Большой Хатыми",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": true
- },
- {
-  "city": "Сысы-Мейите",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Русское Устье",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Токума",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Булус",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Новый",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 4,
-  "road_nearby": true
- },
- {
-  "city": "Лобуя",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Бестях",
   "rating": 2,
   "airport_nearby": false,
-  "bus_stations": 21,
-  "road_nearby": false
- },
- {
-  "city": "Графский Берег",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 51,
-  "road_nearby": false
- },
- {
-  "city": "Сайылык",
-  "rating": 0,
-  "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Чёрюмче",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Асыма",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Берёзовка",
-  "rating": 4,
-  "airport_nearby": true,
-  "bus_stations": 8,
-  "road_nearby": true
- },
- {
-  "city": "Хандыга",
-  "rating": 2,
-  "airport_nearby": false,
-  "bus_stations": 28,
-  "road_nearby": true
- },
- {
-  "city": "Харба-Атах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Миляке",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сайылык",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Синск",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кескил",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Иннялы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Огусур",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 2,
-  "road_nearby": false
- },
- {
-  "city": "Кылайы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Харыялах",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 2,
-  "road_nearby": true
- },
- {
-  "city": "Ойотунг",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кырыкый",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кюкей",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Оюсут",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Толон",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Эмиссы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Пеледуй",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Тас-Юрях",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": true
- },
- {
-  "city": "Килиер",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кильдямцы",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 113,
-  "road_nearby": false
- },
- {
-  "city": "Солнечный",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Крестях",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Чолбон",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сегян-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Верхневилюйск",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 5,
-  "road_nearby": true
- },
- {
-  "city": "Аргас",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Бетюнг",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Жархан",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Метяки",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Мяндиги",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Мындаба",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Даркылах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Малыкай",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Черский",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Дюпся",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Никольский",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 53,
-  "road_nearby": false
- },
- {
-  "city": "Нефтебаза",
-  "rating": 8,
-  "airport_nearby": true,
-  "bus_stations": 25,
-  "road_nearby": false
- },
- {
-  "city": "Мурья",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Кирово",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Качикатцы",
-  "rating": 5,
-  "airport_nearby": false,
-  "bus_stations": 25,
-  "road_nearby": true
- },
- {
-  "city": "Телей-Диринг",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 2,
-  "road_nearby": true
- },
- {
-  "city": "Беря",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Чагда",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Харбала 1я",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 3,
-  "road_nearby": true
- },
- {
-  "city": "Тойбохой",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Дикимдя",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Белая Гора",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сулгаччы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Зырянка",
-  "rating": 2,
-  "airport_nearby": true,
-  "bus_stations": 12,
-  "road_nearby": false
- },
- {
-  "city": "Томтор",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Беркакит",
-  "rating": 5,
-  "airport_nearby": false,
-  "bus_stations": 81,
-  "road_nearby": true
- },
- {
-  "city": "Арылах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Олёкминский",
+  "city": "Воин",
   "rating": 3,
   "airport_nearby": false,
-  "bus_stations": 16,
+  "bus_stations": 2,
   "road_nearby": false
  },
  {
-  "city": "Томтор",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сото",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 3,
-  "road_nearby": false
- },
- {
-  "city": "Намцы",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 55,
-  "road_nearby": false
- },
- {
-  "city": "Кемпендяй",
-  "rating": 0,
+  "city": "Аллага",
+  "rating": 3,
   "airport_nearby": false,
   "bus_stations": 0,
-  "road_nearby": false
+  "road_nearby": true
  },
  {
   "city": "Кыйы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": true
- },
- {
-  "city": "Тысагаччы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кептени",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Балыктах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Роман",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сиктях",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Балыктах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Суон-Тит",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Чагда",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Ус-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Тосу",
-  "rating": 5,
-  "airport_nearby": true,
-  "bus_stations": 11,
-  "road_nearby": false
- },
- {
-  "city": "Тит-Ары",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Хоногор",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Тит-Эбя",
   "rating": 3,
   "airport_nearby": false,
-  "bus_stations": 6,
-  "road_nearby": true
- },
- {
-  "city": "Тулуна",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Арылах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Едей",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Сортол",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Юрдюк-Кумах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Нахара",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Томтор",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сасылыкан",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кюлекянь",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Чокурдах",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Беченча",
-  "rating": 0,
-  "airport_nearby": false,
   "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Тюбяй",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Алы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Хара-Алдан",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Смородичный",
-  "rating": 8,
-  "airport_nearby": true,
-  "bus_stations": 31,
-  "road_nearby": false
- },
- {
-  "city": "Булун",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Стойка",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Юттях",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Бейдинга",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Илимнир",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Баханай",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кыллах",
-  "rating": 2,
-  "airport_nearby": false,
-  "bus_stations": 11,
-  "road_nearby": false
- },
- {
-  "city": "Угоян",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Жиганск",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кулусуннах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Антоновка",
-  "rating": 10,
-  "airport_nearby": true,
-  "bus_stations": 74,
-  "road_nearby": true
- },
- {
-  "city": "Мар",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 3,
-  "road_nearby": true
- },
- {
-  "city": "Новый",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 4,
-  "road_nearby": false
- },
- {
-  "city": "Бютейдях",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 3,
-  "road_nearby": false
- },
- {
-  "city": "Туора-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кюль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": true
- },
- {
-  "city": "Кенг-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сымах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Туора-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кюренг-Ат",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Быччагдан",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Дайа-Амгата",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Дикимдя",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Кердём",
-  "rating": 5,
-  "airport_nearby": false,
-  "bus_stations": 61,
-  "road_nearby": true
- },
- {
-  "city": "Столбы",
-  "rating": 2,
-  "airport_nearby": false,
-  "bus_stations": 12,
-  "road_nearby": false
- },
- {
-  "city": "Хомустах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
   "road_nearby": true
  },
  {
   "city": "Харыялах",
-  "rating": 0,
+  "rating": 6,
   "airport_nearby": true,
   "bus_stations": 2,
   "road_nearby": true
  },
  {
-  "city": "Полярный",
-  "rating": 8,
-  "airport_nearby": true,
-  "bus_stations": 11,
-  "road_nearby": false
- },
- {
-  "city": "Авиапорт",
-  "rating": 8,
-  "airport_nearby": true,
-  "bus_stations": 68,
-  "road_nearby": false
- },
- {
-  "city": "Беджелек",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Олёкминск",
-  "rating": 8,
-  "airport_nearby": true,
-  "bus_stations": 73,
-  "road_nearby": false
- },
- {
-  "city": "Авиапорт",
-  "rating": 8,
-  "airport_nearby": true,
-  "bus_stations": 68,
-  "road_nearby": false
- },
- {
-  "city": "Кюпцы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Чекуровка",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Толон",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Элясин",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Кётёрдёх",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Хатыстыр",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Дебдирге",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Харбала 1-я",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 3,
-  "road_nearby": true
- },
- {
-  "city": "Дабан",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Тонгулах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Нефтебаза",
-  "rating": 10,
-  "airport_nearby": true,
-  "bus_stations": 25,
-  "road_nearby": true
- },
- {
-  "city": "Ынахсыт",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 3,
-  "road_nearby": true
- },
- {
-  "city": "Чапаево",
+  "city": "Дельгей",
   "rating": 2,
   "airport_nearby": false,
-  "bus_stations": 13,
-  "road_nearby": false
- },
- {
-  "city": "Чкалов",
-  "rating": 0,
-  "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Нычалах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Табага",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 3,
-  "road_nearby": false
- },
- {
-  "city": "Ючюгей",
-  "rating": 0,
+  "city": "Хочо",
+  "rating": 2,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
@@ -3318,39 +329,298 @@
   "road_nearby": false
  },
  {
-  "city": "Саскылах",
-  "rating": 0,
+  "city": "Сарданга",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Тыайа",
+  "rating": 5,
   "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Беджелек",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Эльгяй",
+  "rating": 3,
+  "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": true
  },
  {
-  "city": "Осохтох",
-  "rating": 0,
+  "city": "Сулгаччы",
+  "rating": 2,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Хонуу",
-  "rating": 0,
+  "city": "Нерюктяй",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Чернышевский",
+  "rating": 6,
+  "airport_nearby": true,
+  "bus_stations": 3,
+  "road_nearby": true
+ },
+ {
+  "city": "Соболох",
+  "rating": 5,
   "airport_nearby": true,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Алексеевка",
-  "rating": 0,
+  "city": "Тумул",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 5,
+  "road_nearby": false
+ },
+ {
+  "city": "Томмот",
+  "rating": 5,
+  "airport_nearby": false,
+  "bus_stations": 50,
+  "road_nearby": true
+ },
+ {
+  "city": "Бясь-Кюёль",
+  "rating": 2,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Казачье",
+  "city": "Усть-Нера",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 10,
+  "road_nearby": true
+ },
+ {
+  "city": "Балаганнах",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Улахан-Кюёль",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Чаранг",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 20,
+  "road_nearby": false
+ },
+ {
+  "city": "Тит-Эбя",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 6,
+  "road_nearby": true
+ },
+ {
+  "city": "Нерюнгри",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 86,
+  "road_nearby": false
+ },
+ {
+  "city": "Магарас",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 2,
+  "road_nearby": true
+ },
+ {
+  "city": "Мырыла",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Киров",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 4,
+  "road_nearby": false
+ },
+ {
+  "city": "Сыдыбыл",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 5,
+  "road_nearby": true
+ },
+ {
+  "city": "Новый",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 4,
+  "road_nearby": true
+ },
+ {
+  "city": "Беркакит",
+  "rating": 5,
+  "airport_nearby": false,
+  "bus_stations": 81,
+  "road_nearby": true
+ },
+ {
+  "city": "Балаганнах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Карапатское",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 13,
+  "road_nearby": false
+ },
+ {
+  "city": "Кысыл-Сыр",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Килянки",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Борогонцы",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Сырдах",
+  "rating": 8,
+  "airport_nearby": true,
+  "bus_stations": 156,
+  "road_nearby": false
+ },
+ {
+  "city": "Еланка",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Томтор",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кюсюр",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кыстык-Кугда",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Харбала 1я",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 3,
+  "road_nearby": true
+ },
+ {
+  "city": "Кирово",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Нерюктяйинск 1-й",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 5,
+  "road_nearby": false
+ },
+ {
+  "city": "Балаганнах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Дорожный",
   "rating": 0,
   "airport_nearby": false,
   "bus_stations": 1,
+  "road_nearby": true
+ },
+ {
+  "city": "Жархан",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Тосу",
+  "rating": 7,
+  "airport_nearby": true,
+  "bus_stations": 11,
   "road_nearby": false
+ },
+ {
+  "city": "Кяччи",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 12,
+  "road_nearby": false
+ },
+ {
+  "city": "Харбала 2-я",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
  },
  {
   "city": "Лебединый",
@@ -3360,7 +630,2856 @@
   "road_nearby": false
  },
  {
+  "city": "Едей",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Чекуровка",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Намы",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Хонуу",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Арылах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Нахара",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Люксюгюн",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Звёздочка",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Быковский",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Арылах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Липпе-Атах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Толон",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Тумул",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 5,
+  "road_nearby": false
+ },
+ {
+  "city": "Натора",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Иенгра",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 4,
+  "road_nearby": true
+ },
+ {
+  "city": "Тымпы",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Харыялах",
+  "rating": 6,
+  "airport_nearby": true,
+  "bus_stations": 2,
+  "road_nearby": true
+ },
+ {
+  "city": "Чюйя",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 5,
+  "road_nearby": false
+ },
+ {
+  "city": "Кенг-Кюёль",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Чагда",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Май",
+  "rating": 5,
+  "airport_nearby": false,
+  "bus_stations": 32,
+  "road_nearby": true
+ },
+ {
+  "city": "Мегино-Алдан",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Эбя",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Тумул",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 5,
+  "road_nearby": false
+ },
+ {
+  "city": "Тит-Ары",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Орто-Нахара",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Фрунзе",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 4,
+  "road_nearby": false
+ },
+ {
+  "city": "Суон-Тит",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Солянка",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 10,
+  "road_nearby": false
+ },
+ {
+  "city": "Сырдах",
+  "rating": 8,
+  "airport_nearby": true,
+  "bus_stations": 156,
+  "road_nearby": false
+ },
+ {
+  "city": "Кюнде",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 3,
+  "road_nearby": true
+ },
+ {
+  "city": "Якокит",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 2,
+  "road_nearby": true
+ },
+ {
+  "city": "Тенкя",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Куду",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кенг-Кюёль",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Бёкё",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 5,
+  "road_nearby": false
+ },
+ {
+  "city": "Тумул",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 5,
+  "road_nearby": false
+ },
+ {
+  "city": "Танда",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Батамай",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Тэгэн",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Дикимдя",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Берёзовка",
+  "rating": 8,
+  "airport_nearby": true,
+  "bus_stations": 8,
+  "road_nearby": true
+ },
+ {
+  "city": "Кюлекянь",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кысыл-Сыр",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Бетюнг",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Арылах",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Баханай",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Чкалов",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Тополиное",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Абага",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Вилюйск",
+  "rating": 7,
+  "airport_nearby": true,
+  "bus_stations": 11,
+  "road_nearby": true
+ },
+ {
+  "city": "Чай",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Дабан",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Алмазный",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 4,
+  "road_nearby": true
+ },
+ {
+  "city": "Витим",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Тарат",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 5,
+  "road_nearby": true
+ },
+ {
+  "city": "Русское Устье",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Элясин",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Ерт",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Телиги",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Бестях",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 21,
+  "road_nearby": false
+ },
+ {
+  "city": "Тумул",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 5,
+  "road_nearby": false
+ },
+ {
+  "city": "Хаптагай",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Хоринцы",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Тойбохой",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Графский Берег",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 51,
+  "road_nearby": false
+ },
+ {
+  "city": "Сангар",
+  "rating": 6,
+  "airport_nearby": true,
+  "bus_stations": 31,
+  "road_nearby": false
+ },
+ {
+  "city": "Кысыл-Юрюйя",
+  "rating": 5,
+  "airport_nearby": false,
+  "bus_stations": 28,
+  "road_nearby": true
+ },
+ {
+  "city": "Хатыстыр",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Серге-Бес",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Огородтах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Сага",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кюёрелях",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Хоро",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Тасагар",
+  "rating": 6,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Ёкюндю",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Томтор",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Бысыттах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Усть-Мая",
+  "rating": 7,
+  "airport_nearby": true,
+  "bus_stations": 27,
+  "road_nearby": false
+ },
+ {
+  "city": "Метяки",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кептени",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кулусуннах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Серебряный Бор",
+  "rating": 5,
+  "airport_nearby": false,
+  "bus_stations": 95,
+  "road_nearby": true
+ },
+ {
+  "city": "Ботулу",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Табага",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 3,
+  "road_nearby": false
+ },
+ {
+  "city": "Усун-Кюёль",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Куду-Кюёль",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Бясь-Кюёль",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Аппаны",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 55,
+  "road_nearby": false
+ },
+ {
+  "city": "Томтор",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Якутск",
+  "rating": 10,
+  "airport_nearby": true,
+  "bus_stations": 694,
+  "road_nearby": true
+ },
+ {
+  "city": "Усть-Куйга",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Маймага",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 8,
+  "road_nearby": false
+ },
+ {
+  "city": "Бютейдях",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 3,
+  "road_nearby": false
+ },
+ {
+  "city": "Петровка",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 5,
+  "road_nearby": false
+ },
+ {
+  "city": "Асыма",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Сасыр",
+  "rating": 6,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Сортол",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Хара-Тумул",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кулун-Елбют",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Улахан-Мунгку",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 14,
+  "road_nearby": false
+ },
+ {
+  "city": "Тамалакан",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 4,
+  "road_nearby": true
+ },
+ {
+  "city": "Тит-Ары",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Бордон 3-й",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Покровск",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 65,
+  "road_nearby": false
+ },
+ {
+  "city": "Тектюр",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 2,
+  "road_nearby": true
+ },
+ {
+  "city": "Мар-Кюёль",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Тала",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Охотский-Перевоз",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Хордогой",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Улу",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Бала",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Абага",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Туобуя",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Усть-Миль",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Чериктей",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Крестовский Лесоучасток",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Суола",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 3,
+  "road_nearby": false
+ },
+ {
+  "city": "Энгольжа",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Бейдинга",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Боронук",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Нюя Северная",
+  "rating": 10,
+  "airport_nearby": true,
+  "bus_stations": 65,
+  "road_nearby": true
+ },
+ {
+  "city": "Багадя",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Амга",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 26,
+  "road_nearby": false
+ },
+ {
+  "city": "Май",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 32,
+  "road_nearby": false
+ },
+ {
+  "city": "Алеко-Кюёль",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Эльдикан",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Кюндяде",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 6,
+  "road_nearby": true
+ },
+ {
+  "city": "Марха",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Ытык-Кюёль",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Сото",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 3,
+  "road_nearby": false
+ },
+ {
+  "city": "Нюрбачан",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Харыялах",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 2,
+  "road_nearby": false
+ },
+ {
+  "city": "Беченча",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Ус-Кюёль",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Антоновка",
+  "rating": 10,
+  "airport_nearby": true,
+  "bus_stations": 74,
+  "road_nearby": true
+ },
+ {
+  "city": "Кюбяинде",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Заря",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": true
+ },
+ {
+  "city": "Осохтох",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Хатын-Сысы",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 3,
+  "road_nearby": true
+ },
+ {
+  "city": "Сеят",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Орочен 1-й",
+  "rating": 10,
+  "airport_nearby": true,
+  "bus_stations": 113,
+  "road_nearby": true
+ },
+ {
+  "city": "Сайылык",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Сатагай",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Тюбяй",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кальвица",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Сайылык",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Исит",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кюндяе",
+  "rating": 10,
+  "airport_nearby": true,
+  "bus_stations": 26,
+  "road_nearby": true
+ },
+ {
+  "city": "Алысардах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Талакан",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 5,
+  "road_nearby": false
+ },
+ {
+  "city": "Усун-Кюёль",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Тёплый Ключ",
+  "rating": 6,
+  "airport_nearby": true,
+  "bus_stations": 4,
+  "road_nearby": true
+ },
+ {
+  "city": "Мурья",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Арылах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Нефтебаза",
+  "rating": 8,
+  "airport_nearby": true,
+  "bus_stations": 25,
+  "road_nearby": false
+ },
+ {
+  "city": "Куйдусун",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Мача",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Дикимдя",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Бярийе",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Дюллюкю",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 2,
+  "road_nearby": false
+ },
+ {
+  "city": "Хаты",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Джебарики-Хая",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Тулуна",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Хампа",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Сиктях",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Чукар",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Дюпся",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Ломтука",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Сайды",
+  "rating": 5,
+  "airport_nearby": false,
+  "bus_stations": 27,
+  "road_nearby": true
+ },
+ {
+  "city": "Дебдирге",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Олом-Кюёле",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Сюля",
+  "rating": 10,
+  "airport_nearby": true,
+  "bus_stations": 76,
+  "road_nearby": true
+ },
+ {
+  "city": "Эмиссы",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "8-й км",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Ымыяхтах",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 21,
+  "road_nearby": false
+ },
+ {
+  "city": "Мяндийе",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 2,
+  "road_nearby": true
+ },
+ {
+  "city": "Юнкюр",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 47,
+  "road_nearby": false
+ },
+ {
   "city": "Кептин",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Лебия",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Алы",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Абага Центральная",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 13,
+  "road_nearby": false
+ },
+ {
+  "city": "Хатас",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Эселях",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кердём",
+  "rating": 5,
+  "airport_nearby": false,
+  "bus_stations": 61,
+  "road_nearby": true
+ },
+ {
+  "city": "Усун",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Аэропорт",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 4,
+  "road_nearby": false
+ },
+ {
+  "city": "Комсомол",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Найба",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Чыаппара",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Нижнеянск",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Балыктах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Сыгыннах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Батагай-Алыта",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Таймылыр",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Айхал",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 11,
+  "road_nearby": false
+ },
+ {
+  "city": "Телей-Диринг",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 2,
+  "road_nearby": true
+ },
+ {
+  "city": "Синск",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Крест-Хальджай",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Берег-Юрдя",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Хонгор-Бие",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кюкей",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Новый",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 4,
+  "road_nearby": false
+ },
+ {
+  "city": "Орочен 2-й",
+  "rating": 10,
+  "airport_nearby": true,
+  "bus_stations": 113,
+  "road_nearby": true
+ },
+ {
+  "city": "Верхний Куранах",
+  "rating": 10,
+  "airport_nearby": true,
+  "bus_stations": 98,
+  "road_nearby": true
+ },
+ {
+  "city": "Ой",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 61,
+  "road_nearby": false
+ },
+ {
+  "city": "Хатассы",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 435,
+  "road_nearby": false
+ },
+ {
+  "city": "Томтор",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Миляке",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Иннях",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Ефремово",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Уолба",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Верхневилюйск",
+  "rating": 6,
+  "airport_nearby": true,
+  "bus_stations": 5,
+  "road_nearby": true
+ },
+ {
+  "city": "Ленинский",
+  "rating": 10,
+  "airport_nearby": true,
+  "bus_stations": 119,
+  "road_nearby": true
+ },
+ {
+  "city": "Томтор",
+  "rating": 4,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Салтаны",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 4,
+  "road_nearby": true
+ },
+ {
+  "city": "Усть-Янск",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Стойка",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Юрюнг-Хая",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Бютейдях",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 3,
+  "road_nearby": false
+ },
+ {
+  "city": "Арангастах",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Кысыл-Деревня",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 55,
+  "road_nearby": false
+ },
+ {
+  "city": "Токума",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Жилинда",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Сайылык",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кырыкый",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Маралайы",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 2,
+  "road_nearby": true
+ },
+ {
+  "city": "Авиапорт",
+  "rating": 8,
+  "airport_nearby": true,
+  "bus_stations": 68,
+  "road_nearby": false
+ },
+ {
+  "city": "Малыкай",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Хоногор",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Сасылыкан",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Сюльдюкар",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Золотинка",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 4,
+  "road_nearby": true
+ },
+ {
+  "city": "Батагай",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Саныяхтах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Депутатский",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 2,
+  "road_nearby": false
+ },
+ {
+  "city": "Бетенкёс",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Мирный",
+  "rating": 10,
+  "airport_nearby": true,
+  "bus_stations": 61,
+  "road_nearby": true
+ },
+ {
+  "city": "Багадя",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Андреевский",
+  "rating": 6,
+  "airport_nearby": true,
+  "bus_stations": 5,
+  "road_nearby": true
+ },
+ {
+  "city": "Хоробут",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Суччино",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Усть-Юдома",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Крестях",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Нюя",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Батамай",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Терют",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Сентачан",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Сайды",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 27,
+  "road_nearby": false
+ },
+ {
+  "city": "Хапчагай",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Маягас",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Хахыях",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Лобуя",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кемпендяй",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Ыгыатта",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Чаппанда",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 3,
+  "road_nearby": true
+ },
+ {
+  "city": "Оросу",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 4,
+  "road_nearby": true
+ },
+ {
+  "city": "Едей",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Тяня",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Сымах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Утая",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Суола",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 3,
+  "road_nearby": false
+ },
+ {
+  "city": "Ситте",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Хамра",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Аргас",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кердюген",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кутана",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Развилка",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Черендей",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Ючюгей",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Павловск",
+  "rating": 5,
+  "airport_nearby": false,
+  "bus_stations": 15,
+  "road_nearby": true
+ },
+ {
+  "city": "Елечей",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 3,
+  "road_nearby": false
+ },
+ {
+  "city": "Улахан-Эбя",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Улахан-Кюёль",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Толон",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Маган",
+  "rating": 10,
+  "airport_nearby": true,
+  "bus_stations": 105,
+  "road_nearby": true
+ },
+ {
+  "city": "Олёкминск",
+  "rating": 8,
+  "airport_nearby": true,
+  "bus_stations": 73,
+  "road_nearby": false
+ },
+ {
+  "city": "Мындаба",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Саскылах",
+  "rating": 6,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Беря",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Даркылах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Оргёт",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Акана",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 5,
+  "road_nearby": true
+ },
+ {
+  "city": "Аллах-Юнь",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Налимск",
+  "rating": 4,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Дикимдя",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Селиваново",
+  "rating": 8,
+  "airport_nearby": true,
+  "bus_stations": 67,
+  "road_nearby": false
+ },
+ {
+  "city": "Илимнир",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Сегян-Кюёль",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Харыялах",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 2,
+  "road_nearby": false
+ },
+ {
+  "city": "Хомустах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Нюрба",
+  "rating": 10,
+  "airport_nearby": true,
+  "bus_stations": 76,
+  "road_nearby": true
+ },
+ {
+  "city": "Сайылык",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Бяди",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Нохорой",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Михалкино",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Авиапорт",
+  "rating": 8,
+  "airport_nearby": true,
+  "bus_stations": 68,
+  "road_nearby": false
+ },
+ {
+  "city": "Ергёлёх",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Харба-Атах",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Эсэ-Хайя",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Холго",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 13,
+  "road_nearby": false
+ },
+ {
+  "city": "Казачье",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Большой Хатыми",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": true
+ },
+ {
+  "city": "Булус",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Иннялы",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Удачный",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 22,
+  "road_nearby": true
+ },
+ {
+  "city": "Кылайы",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Бердинка",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 11,
+  "road_nearby": false
+ },
+ {
+  "city": "Хомустах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Даккы",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Уолбут",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Улу-Сысы",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Барылас",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Троицк",
+  "rating": 8,
+  "airport_nearby": true,
+  "bus_stations": 27,
+  "road_nearby": false
+ },
+ {
+  "city": "Орто-Балаган",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Куберганя",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Мындагай",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Тарагай-Бясь",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Жиганск",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кыллах",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 11,
+  "road_nearby": false
+ },
+ {
+  "city": "Дёску",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Столбы",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 12,
+  "road_nearby": false
+ },
+ {
+  "city": "Кётёрдёх",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Устье",
+  "rating": 10,
+  "airport_nearby": true,
+  "bus_stations": 26,
+  "road_nearby": true
+ },
+ {
+  "city": "Капитоновка",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 33,
+  "road_nearby": false
+ },
+ {
+  "city": "Смородичный",
+  "rating": 8,
+  "airport_nearby": true,
+  "bus_stations": 31,
+  "road_nearby": false
+ },
+ {
+  "city": "Хоро",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Тысагаччы",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Пригородный",
+  "rating": 10,
+  "airport_nearby": true,
+  "bus_stations": 685,
+  "road_nearby": true
+ },
+ {
+  "city": "Ыллымах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Нуочаха",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Черкёх",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Хара-Алдан",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Намцы",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 55,
+  "road_nearby": false
+ },
+ {
+  "city": "Кочегарово",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Дайа-Амгата",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Агдары",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Табага",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 3,
+  "road_nearby": false
+ },
+ {
+  "city": "Юрюнг-Кюёль",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кобяй",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Бютяй-Юрдя",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 49,
+  "road_nearby": false
+ },
+ {
+  "city": "Старая Табага",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 174,
+  "road_nearby": false
+ },
+ {
+  "city": "Агаякан",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Орто-Сурт",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Чакыр 2-й",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 3,
+  "road_nearby": false
+ },
+ {
+  "city": "Мяндиги",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Арылах",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Уянди",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Берёзовка",
+  "rating": 2,
+  "airport_nearby": true,
+  "bus_stations": 8,
+  "road_nearby": false
+ },
+ {
+  "city": "Улахан-Ан",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Нижний Куранах",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 24,
+  "road_nearby": true
+ },
+ {
+  "city": "Олёкминский",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 16,
+  "road_nearby": false
+ },
+ {
+  "city": "Булун",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Уорай",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Буор-Сысы",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Ярославский",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Далыр",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Староватово",
+  "rating": 7,
+  "airport_nearby": true,
+  "bus_stations": 11,
+  "road_nearby": true
+ },
+ {
+  "city": "Ченгере",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Промкомбинат",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 26,
+  "road_nearby": false
+ },
+ {
+  "city": "Алтанцы",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Болугур",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кюль",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": true
+ },
+ {
+  "city": "Туора-Кюёль",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Хандыга",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 28,
+  "road_nearby": true
+ },
+ {
+  "city": "Арыктах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Малыкан",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Хатырык-Хомо",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Чолбон",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Далы",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Лазо",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Ынахсыт",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 3,
+  "road_nearby": true
+ },
+ {
+  "city": "Мар",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 3,
+  "road_nearby": true
+ },
+ {
+  "city": "Якокут",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Тербяс",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Себян-Кюёль",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кустур",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Суордах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Никольский",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 53,
+  "road_nearby": false
+ },
+ {
+  "city": "Юнкюр",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 47,
+  "road_nearby": false
+ },
+ {
+  "city": "Хани",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Качикатцы",
+  "rating": 5,
+  "airport_nearby": false,
+  "bus_stations": 25,
+  "road_nearby": true
+ },
+ {
+  "city": "Бирюк",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 5,
+  "road_nearby": false
+ },
+ {
+  "city": "Харбала",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Томтор",
+  "rating": 6,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Дярла",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 2,
+  "road_nearby": true
+ },
+ {
+  "city": "Октёмцы",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 13,
+  "road_nearby": false
+ },
+ {
+  "city": "Хатынг-Тумул",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Тойон-Ары",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Белькачи",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Хайыр",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Моркока",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Бырама",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 2,
+  "road_nearby": false
+ },
+ {
+  "city": "Сунтар",
+  "rating": 7,
+  "airport_nearby": true,
+  "bus_stations": 26,
+  "road_nearby": true
+ },
+ {
+  "city": "Оймякон",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Рассолода",
+  "rating": 5,
+  "airport_nearby": false,
+  "bus_stations": 12,
+  "road_nearby": true
+ },
+ {
+  "city": "Югорёнок",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Куранда",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 18,
+  "road_nearby": false
+ },
+ {
+  "city": "Тас-Анна",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 5,
+  "road_nearby": false
+ },
+ {
+  "city": "Светлый",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 7,
+  "road_nearby": false
+ },
+ {
+  "city": "Майя",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 5,
+  "road_nearby": false
+ },
+ {
+  "city": "Нерюктяйинск 2-й",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 11,
+  "road_nearby": false
+ },
+ {
+  "city": "Чумпу-Кытыл",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Михайловка",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Огусур",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 2,
+  "road_nearby": false
+ },
+ {
+  "city": "Троицк",
+  "rating": 8,
+  "airport_nearby": true,
+  "bus_stations": 27,
+  "road_nearby": false
+ },
+ {
+  "city": "Сысы-Мейите",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Усть-Оленёк",
   "rating": 0,
   "airport_nearby": false,
   "bus_stations": 0,
@@ -3374,41 +3493,6 @@
   "road_nearby": false
  },
  {
-  "city": "Усть-Мая",
-  "rating": 5,
-  "airport_nearby": true,
-  "bus_stations": 27,
-  "road_nearby": false
- },
- {
-  "city": "Тулагино",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 85,
-  "road_nearby": false
- },
- {
-  "city": "Бяди",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Боронук",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Бердигестях",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 32,
-  "road_nearby": true
- },
- {
   "city": "Харыялах",
   "rating": 0,
   "airport_nearby": true,
@@ -3416,8 +3500,134 @@
   "road_nearby": false
  },
  {
-  "city": "Токко",
+  "city": "Жатай",
+  "rating": 8,
+  "airport_nearby": true,
+  "bus_stations": 307,
+  "road_nearby": false
+ },
+ {
+  "city": "Уорга",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Солнечный",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Затон ЛОРПа",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 68,
+  "road_nearby": false
+ },
+ {
+  "city": "Делянкир",
   "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Харыялах",
+  "rating": 2,
+  "airport_nearby": true,
+  "bus_stations": 2,
+  "road_nearby": true
+ },
+ {
+  "city": "Быракан",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Усун-Кюёль",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Бестях",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 21,
+  "road_nearby": false
+ },
+ {
+  "city": "Урицкое",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Чинеке",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": true
+ },
+ {
+  "city": "Мастах 2-й",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Сылгы-Ытар",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Черский",
+  "rating": 6,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Мачах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Чкалов",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Алексеевка",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Матта",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 5,
+  "road_nearby": false
+ },
+ {
+  "city": "Быччагдан",
+  "rating": 2,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
@@ -3430,52 +3640,38 @@
   "road_nearby": false
  },
  {
-  "city": "Тенкя",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Толон",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Бясь-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Петровка",
+  "city": "Чекя-Бясь",
   "rating": 1,
   "airport_nearby": false,
-  "bus_stations": 5,
-  "road_nearby": false
+  "bus_stations": 32,
+  "road_nearby": true
  },
  {
-  "city": "Усун-Кюёль",
+  "city": "Эйикяр",
   "rating": 0,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Хонгор-Бие",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Нерюнгри",
+  "city": "Техтюр",
   "rating": 4,
   "airport_nearby": false,
-  "bus_stations": 86,
+  "bus_stations": 15,
+  "road_nearby": false
+ },
+ {
+  "city": "Эбя",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кюренг-Ат",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
   "road_nearby": false
  },
  {
@@ -3486,276 +3682,59 @@
   "road_nearby": true
  },
  {
-  "city": "Сыдыбыл",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 5,
-  "road_nearby": true
- },
- {
-  "city": "Борогонцы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сылгы-Ытар",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Уолбут",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Томтор",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Исит",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Маймага",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 8,
-  "road_nearby": false
- },
- {
-  "city": "Тарагай-Бясь",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Чинеке",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": true
- },
- {
-  "city": "Нохорой",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Делянкир",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Владимировка",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 68,
-  "road_nearby": false
- },
- {
-  "city": "Хайыр",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Чычымах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Холго",
+  "city": "Усть-Ыныкчан",
   "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Чёрюмче",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Чиряпчи",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Тумат",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Чапаево",
+  "rating": 3,
   "airport_nearby": false,
   "bus_stations": 13,
   "road_nearby": false
  },
  {
-  "city": "Тегюльтя",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Нижнеколымск",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Сеят",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Эбях",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Тумул",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 5,
-  "road_nearby": false
- },
- {
-  "city": "Мохсоголлох",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 27,
-  "road_nearby": false
- },
- {
-  "city": "Акана",
-  "rating": 1,
-  "airport_nearby": false,
-  "bus_stations": 5,
-  "road_nearby": true
- },
- {
-  "city": "Абый",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Карапатское",
-  "rating": 2,
-  "airport_nearby": false,
-  "bus_stations": 13,
-  "road_nearby": false
- },
- {
-  "city": "Нюрба",
+  "city": "Алдан",
   "rating": 10,
   "airport_nearby": true,
-  "bus_stations": 76,
+  "bus_stations": 115,
   "road_nearby": true
  },
  {
-  "city": "Походск",
-  "rating": 0,
+  "city": "Харбала 1-я",
+  "rating": 3,
   "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Даппарай",
-  "rating": 2,
-  "airport_nearby": false,
-  "bus_stations": 11,
-  "road_nearby": false
- },
- {
-  "city": "Улу-Сысы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Чаранг",
-  "rating": 2,
-  "airport_nearby": false,
-  "bus_stations": 20,
-  "road_nearby": false
- },
- {
-  "city": "Усун",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Партизан",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 25,
-  "road_nearby": false
- },
- {
-  "city": "Найба",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Харыялах",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 2,
-  "road_nearby": false
- },
- {
-  "city": "Харбалах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Улахан-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Золотинка",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 4,
+  "bus_stations": 3,
   "road_nearby": true
  },
  {
-  "city": "Усун-Кюёль",
-  "rating": 0,
+  "city": "Бетюнцы",
+  "rating": 3,
   "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Колымское",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Энгольжа",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
+  "bus_stations": 3,
   "road_nearby": false
  },
  {
@@ -3766,42 +3745,245 @@
   "road_nearby": true
  },
  {
-  "city": "Хатылыма",
+  "city": "Роман",
   "rating": 0,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Бырама",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 2,
-  "road_nearby": false
- },
- {
-  "city": "Ымыяхтах",
+  "city": "Мохсоголлох",
   "rating": 4,
   "airport_nearby": false,
-  "bus_stations": 21,
+  "bus_stations": 27,
   "road_nearby": false
  },
  {
-  "city": "Берёзовка",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 8,
+  "city": "Нуорагана",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 2,
+  "road_nearby": true
+ },
+ {
+  "city": "Сыаганнах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Куду-Бясь",
+  "city": "Угоян",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Колымское",
   "rating": 1,
   "airport_nearby": false,
-  "bus_stations": 5,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Оттур-Кюёль",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Чкалов",
+  "city": "Соянги",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Нефтебаза",
+  "rating": 10,
+  "airport_nearby": true,
+  "bus_stations": 25,
+  "road_nearby": true
+ },
+ {
+  "city": "Кытыл-Дюра",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Чымнайи",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кюпцы",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Юттях",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Чульман",
+  "rating": 9,
+  "airport_nearby": true,
+  "bus_stations": 28,
+  "road_nearby": true
+ },
+ {
+  "city": "Чапаево",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 13,
+  "road_nearby": false
+ },
+ {
+  "city": "Эльгян",
+  "rating": 6,
+  "airport_nearby": true,
+  "bus_stations": 1,
+  "road_nearby": true
+ },
+ {
+  "city": "Чамча",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 3,
+  "road_nearby": false
+ },
+ {
+  "city": "Чурапча",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 2,
+  "road_nearby": true
+ },
+ {
+  "city": "Чайыгда",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Булун",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Оннёс",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Туора-Кюёль",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Тас-Юрях",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": true
+ },
+ {
+  "city": "Оленёк",
+  "rating": 6,
+  "airport_nearby": true,
+  "bus_stations": 2,
+  "road_nearby": true
+ },
+ {
+  "city": "Ойун-Унгуохтах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Жархан",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Верхняя Амга",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Аргахтах",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Сватай",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Ары-Тит",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 1,
+  "road_nearby": false
+ },
+ {
+  "city": "Нижний Бестях",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 13,
+  "road_nearby": true
+ },
+ {
+  "city": "Боробул",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Абый",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Зырянка",
+  "rating": 6,
+  "airport_nearby": true,
+  "bus_stations": 12,
+  "road_nearby": false
+ },
+ {
+  "city": "Нычалах",
   "rating": 0,
   "airport_nearby": false,
   "bus_stations": 0,
@@ -3809,140 +3991,56 @@
  },
  {
   "city": "Шея",
-  "rating": 0,
+  "rating": 3,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": true
  },
  {
-  "city": "Берег-Юрдя",
-  "rating": 0,
+  "city": "Угольное",
+  "rating": 1,
   "airport_nearby": false,
   "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Хаты",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Крестовский Лесоучасток",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Арылах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Балаганнах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Тербяс",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
+  "road_nearby": true
  },
  {
   "city": "Хомустах",
-  "rating": 0,
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Толон",
+  "rating": 2,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Тикси",
-  "rating": 1,
-  "airport_nearby": true,
-  "bus_stations": 7,
-  "road_nearby": false
- },
- {
-  "city": "8-й км",
-  "rating": 0,
+  "city": "Большой Нимныр",
+  "rating": 3,
   "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Эльгян",
-  "rating": 1,
-  "airport_nearby": true,
   "bus_stations": 1,
   "road_nearby": true
  },
  {
-  "city": "Столбы",
-  "rating": 1,
+  "city": "Тинная",
+  "rating": 2,
   "airport_nearby": false,
-  "bus_stations": 12,
+  "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Ударник",
-  "rating": 0,
+  "city": "Тюмяти",
+  "rating": 1,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
   "city": "Ойусардах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Огородтах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Куду",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Чернышевский",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 3,
-  "road_nearby": true
- },
- {
-  "city": "Среднеколымск",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Хоро",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Ченгере",
-  "rating": 0,
+  "rating": 2,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
@@ -3955,43 +4053,99 @@
   "road_nearby": false
  },
  {
-  "city": "Телиги",
-  "rating": 0,
+  "city": "Артык",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Хатылыма",
+  "rating": 2,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Чамча",
-  "rating": 1,
+  "city": "Харбалах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Тулагино",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 85,
+  "road_nearby": false
+ },
+ {
+  "city": "Хоточчу",
+  "rating": 5,
+  "airport_nearby": false,
+  "bus_stations": 13,
+  "road_nearby": true
+ },
+ {
+  "city": "Кыстатыам",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Эбях",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Чокурдах",
+  "rating": 5,
   "airport_nearby": true,
-  "bus_stations": 3,
-  "road_nearby": false
- },
- {
-  "city": "Кенг-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
   "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Оттур-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Селиваново",
-  "rating": 8,
-  "airport_nearby": true,
-  "bus_stations": 67,
   "road_nearby": false
  },
  {
   "city": "Торго",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Партизан",
+  "rating": 4,
+  "airport_nearby": false,
+  "bus_stations": 25,
+  "road_nearby": false
+ },
+ {
+  "city": "Дябыла",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 2,
+  "road_nearby": true
+ },
+ {
+  "city": "Походск",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Ойотунг",
   "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Ударник",
+  "rating": 2,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
@@ -4004,287 +4158,168 @@
   "road_nearby": false
  },
  {
-  "city": "Чаранг",
-  "rating": 4,
+  "city": "Пеледуй",
+  "rating": 2,
   "airport_nearby": false,
-  "bus_stations": 20,
+  "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Хахыях",
+  "city": "Балыктах",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Тегюльтя",
   "rating": 0,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Тас-Анна",
+  "city": "Столбы",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 12,
+  "road_nearby": false
+ },
+ {
+  "city": "Сутуруоха",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Хомустах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Юрях-Кюёре",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 2,
+  "road_nearby": false
+ },
+ {
+  "city": "Хайысардах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Верхоянск",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Чычымах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Лёкёчён",
   "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Токко",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Юрдюк-Кумах",
+  "rating": 0,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Оленегорск",
+  "rating": 3,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Куду-Бясь",
+  "rating": 3,
   "airport_nearby": false,
   "bus_stations": 5,
   "road_nearby": false
  },
  {
-  "city": "Кытыл-Дюра",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Хатын-Сысы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 3,
-  "road_nearby": true
- },
- {
-  "city": "Хара-Тумул",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Эльдикан",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Сутуруоха",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Улах-Ан",
-  "rating": 2,
-  "airport_nearby": false,
-  "bus_stations": 47,
-  "road_nearby": false
- },
- {
-  "city": "Чаппанда",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 3,
-  "road_nearby": true
- },
- {
-  "city": "Аэропорт",
-  "rating": 1,
-  "airport_nearby": true,
-  "bus_stations": 4,
-  "road_nearby": false
- },
- {
-  "city": "Тасагар",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Ыгыатта",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Хамра",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Черендей",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Усун-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Чукар",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Нижний Куранах",
-  "rating": 2,
-  "airport_nearby": false,
-  "bus_stations": 24,
-  "road_nearby": true
- },
- {
-  "city": "Эбя",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Чекя-Бясь",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 32,
-  "road_nearby": true
- },
- {
-  "city": "Усть-Куйга",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Соянги",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Тойон-Ары",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Эбя",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Юнкюр",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 47,
-  "road_nearby": false
- },
- {
-  "city": "Чымнайи",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Харыялах",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 2,
-  "road_nearby": false
- },
- {
-  "city": "Агдары",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Тымпы",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Усть-Юдома",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Терют",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
   "city": "Окоемовка",
-  "rating": 0,
+  "rating": 2,
   "airport_nearby": false,
   "bus_stations": 0,
   "road_nearby": false
  },
  {
-  "city": "Хоро",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Эйикяр",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Ярославский",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Улахан-Мунгку",
+  "city": "Тумул",
   "rating": 3,
   "airport_nearby": false,
-  "bus_stations": 14,
+  "bus_stations": 5,
+  "road_nearby": true
+ },
+ {
+  "city": "Булгунняхтах",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 6,
   "road_nearby": false
  },
  {
-  "city": "Налимск",
-  "rating": 0,
+  "city": "Мастах",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Эжанцы",
+  "rating": 4,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Туойдах",
+  "rating": 6,
+  "airport_nearby": true,
+  "bus_stations": 26,
+  "road_nearby": false
+ },
+ {
+  "city": "Чкалов",
+  "rating": 1,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Среднеколымск",
+  "rating": 6,
   "airport_nearby": true,
   "bus_stations": 0,
   "road_nearby": true
  },
  {
-  "city": "Улахан-Эбя",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Ытык-Кюёль",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": true
- },
- {
-  "city": "Чиряпчи",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Юрюнг-Кюёль",
+  "city": "Нижнеколымск",
   "rating": 0,
   "airport_nearby": false,
   "bus_stations": 0,
@@ -4292,86 +4327,51 @@
  },
  {
   "city": "Юнер-Олох",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Чапаево",
   "rating": 2,
   "airport_nearby": false,
-  "bus_stations": 13,
-  "road_nearby": false
- },
- {
-  "city": "Мача",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Юрях-Кюёре",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 2,
-  "road_nearby": false
- },
- {
-  "city": "Юнкюр",
-  "rating": 4,
-  "airport_nearby": false,
-  "bus_stations": 47,
-  "road_nearby": false
- },
- {
-  "city": "Усть-Ыныкчан",
-  "rating": 0,
-  "airport_nearby": false,
   "bus_stations": 1,
-  "road_nearby": false
- },
- {
-  "city": "Чай",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Ойун-Унгуохтах",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Чкалов",
-  "rating": 0,
-  "airport_nearby": false,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Эжанцы",
-  "rating": 0,
-  "airport_nearby": true,
-  "bus_stations": 0,
-  "road_nearby": false
- },
- {
-  "city": "Туойдах",
-  "rating": 3,
-  "airport_nearby": true,
-  "bus_stations": 26,
   "road_nearby": false
  },
  {
   "city": "Хатынгнах",
-  "rating": 0,
+  "rating": 1,
   "airport_nearby": false,
   "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Чагда",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кындал",
+  "rating": 2,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Кутана",
+  "rating": 3,
+  "airport_nearby": false,
+  "bus_stations": 0,
+  "road_nearby": true
+ },
+ {
+  "city": "Белая Гора",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 0,
+  "road_nearby": false
+ },
+ {
+  "city": "Тикси",
+  "rating": 5,
+  "airport_nearby": true,
+  "bus_stations": 7,
   "road_nearby": false
  }
 ]
