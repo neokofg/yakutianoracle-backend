@@ -31,7 +31,7 @@ class GetController extends Controller
                     ST_MakePolygon(
                         ST_GeomFromText('LINESTRING($lon1 $lat1, $lon2 $lat2, $lon3 $lat3, $lon4 $lat4, $lon1 $lat1)')
                     ),
-                    4326
+                    3857
                 )::geometry,
                 cities.geometry::geometry)");
         }
