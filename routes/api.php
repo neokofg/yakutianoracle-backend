@@ -12,6 +12,8 @@ use App\Http\Controllers\Email\VerifyController as EmailVerify;
 use App\Http\Controllers\Geo\StoreController as GeoStore;
 use App\Http\Controllers\Geo\GetController as GeoGet;
 use App\Http\Controllers\Geo\DeleteController as GeoDelete;
+// CloudPayments
+use App\Http\Controllers\WebHook\CloudPayments\PayController as CPPay;
 
 /*
 |--------------------------------------------------------------------------
@@ -35,6 +37,9 @@ Route::prefix('v1')->group(function () {
             Route::post('/', GeoStore::class);
             Route::delete('/{id}', GeoDelete::class);
         });
+    });
+    Route::prefix('/webhook')->group(function () {
+        Route::post('/pay', CPPay::class);
     });
     Route::prefix('verify')->group(function () {
         Route::get('/{token}', EmailVerify::class);
