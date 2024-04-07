@@ -30,51 +30,19 @@ class StoreController extends Controller
 
     private function importGeo(Request $request)
     {
-        $dataType = $request->dataType;
-        switch ($dataType) {
-            case 'one':
-                return $this->importOneGeo($request);
-            case 'multiple':
-                return $this->importMultipleGeo($request);
-            default:
-                return ['status' => false, 'message' => 'Неверный dataType!'];
-        }
-    }
-
-    private function importOneGeo(Request $request)
-    {
         $category = Category::firstOrCreate([
             'title' => strtolower($request->category)
         ]);
-        $city = City::firstOrCreate([
-            'title' => strtolower($request->city)
-        ]);
         $geo = $request->location;
+        $nearestCity = City::select("id", DB::raw("geometry <-> ST_SetSRID(ST_MakePoint($geo[0],$geo[1]), 3857) AS distance"))
+            ->orderBy('distance', 'ASC')
+            ->first();
         Geo::create([
             'geometry' => new Point($geo[0],$geo[1]),
             'name' => $request->name,
             'category_id' => $category->id,
-            'city_id' => $city->id
+            'city_id' => $nearestCity?->id
         ]);
-        return ['status' => true, 'message' => 'Импортировано успешно!'];
-    }
-
-    private function importMultipleGeo(Request $request)
-    {
-        foreach ($request->geo as $geo) {
-            $category = Category::firstOrCreate([
-                'title' => strtolower($geo['category'])
-            ]);
-            $city = City::firstOrCreate([
-                'title' => strtolower($geo['city'])
-            ]);
-            Geo::create([
-                'geometry' => new Point($geo['location'][0],$geo['location'][1]),
-                'name' => $geo['name'],
-                'category_id' => $category->id,
-                'city_id' => $city->id
-            ]);
-        }
         return ['status' => true, 'message' => 'Импортировано успешно!'];
     }
 }
