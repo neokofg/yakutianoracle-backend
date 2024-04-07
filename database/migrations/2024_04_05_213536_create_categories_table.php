@@ -15,6 +15,7 @@ return new class extends Migration
             $table->ulid('id')->primary();
             $table->timestamps();
             $table->string('title');
+            $table->boolean('is_unique')->default(false);
         });
     }
 

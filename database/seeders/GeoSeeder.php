@@ -40,8 +40,8 @@ class GeoSeeder extends Seeder
             $geo->name = $properties['Наименование'] ?? null;
             $geo->geometry = new Point($coordinates[0],$coordinates[1]);
             $geo->category_id = Category::firstOrCreate([
-                'title' => strtolower($properties['Категория'])
-            ])->id;
+                'title' => mb_strtolower($properties['Категория'])
+            ], ['is_unique' => true])->id;
             $geo->city_id = $this->calculateCity($coordinates);
             $geo->save();
         }

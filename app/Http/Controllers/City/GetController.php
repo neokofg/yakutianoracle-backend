@@ -45,7 +45,8 @@ class GetController extends Controller
                     'year_round_rating' => $city->year_round_rating,
                     'population' => $city->population,
                     'year_rounds' => $city->year_rounds,
-                    'place' => $city->place
+                    'place' => $city->place,
+                    'rating' => $city->rating
                 ],
                 'geometry' => $city->geometry
             ];

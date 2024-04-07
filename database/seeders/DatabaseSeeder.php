@@ -27,7 +27,8 @@ class DatabaseSeeder extends Seeder
              CitiesSeeder::class,
              TransportSeeder::class,
              YearRoundSeeder::class,
-             GeoSeeder::class
+             GeoSeeder::class,
+             CityCalculator::class
          ]);
     }
 }

@@ -6,6 +6,7 @@ use Illuminate\Database\Eloquent\Concerns\HasUlids;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\HasMany;
+use Illuminate\Database\Eloquent\Relations\HasOne;
 use MStaack\LaravelPostgis\Eloquent\PostgisTrait;
 
 class City extends Model
@@ -45,9 +46,9 @@ class City extends Model
         return $this->hasMany(YearRound::class, 'city_id', 'id');
     }
 
-    public function transports(): HasMany
+    public function transports(): HasOne
     {
-        return $this->hasMany(Transport::class, 'city_id', 'id');
+        return $this->hasOne(Transport::class, 'city_id', 'id');
     }
 
     public function geos(): HasMany

@@ -20,6 +20,7 @@ return new class extends Migration
             $table->integer('population');
             $table->integer('year_round_rating')->nullable();
             $table->point('geometry', 'geometry',3857);
+            $table->float('rating')->nullable();
             $table->foreignUlid('region_id')->constrained('regions')->cascadeOnDelete();
         });
     }
