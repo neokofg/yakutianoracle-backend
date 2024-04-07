@@ -39,6 +39,9 @@ class GetController extends Controller
         if(isset($request->city_id)) {
             $geo = $geo->where('city_id', '=', $request->city_id);
         }
+        if(isset($request->search)) {
+            $geo = $geo->whereRelation('category', 'title', 'ILIKE', '%'.$request->search.'%');
+        }
         $data = [
             "type" => "FeatureCollection",
             "features" => $geo->get()->makeHidden(['category_id','city_id','name','category'])
