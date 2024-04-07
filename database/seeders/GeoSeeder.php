@@ -17,9 +17,6 @@ class GeoSeeder extends Seeder
      */
     public function run(): void
     {
-        $category = Category::create([
-            'title' => 'туризм'
-        ]);
         $geojsonData = file_get_contents(storage_path('/app/public/tourism.geojson'));
         $geojsonData = json_decode($geojsonData, true);
         foreach ($geojsonData['features'] as $feature) {
@@ -29,7 +26,7 @@ class GeoSeeder extends Seeder
             $geo = new Geo();
             $geo->name = $properties['NAME'];
             $geo->geometry = new Point($coordinates[0],$coordinates[1]);
-            $geo->category_id = $category->id;
+            $geo->category_id = $this->getCategory($properties);
             $geo->city_id = $this->calculateCity($coordinates);
             $geo->save();
         }
@@ -47,6 +44,27 @@ class GeoSeeder extends Seeder
             ])->id;
             $geo->city_id = $this->calculateCity($coordinates);
             $geo->save();
+        }
+    }
+
+    private function getCategory($properties)
+    {
+        $categories = [
+            'MAN_MADE',
+            'LEISURE',
+            'AMENITY',
+            'OFFICE',
+            'SHOP',
+            'TOURISM',
+            'SPORT'
+        ];
+        foreach ($categories as $property) {
+            if(is_null($properties[$property])) {
+                continue;
+            }
+            return Category::firstOrCreate([
+                'title' => $properties[$property]
+            ])->id;
         }
     }
 
