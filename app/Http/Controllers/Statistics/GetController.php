@@ -23,6 +23,7 @@ class GetController extends Controller
             'year_rounds' => $city->year_rounds,
             'geo' => $city->geos()->with(['category'])->get()->makeHidden(['category_id','city_id','type','id','geometry']),
             'transports' => $city->transports,
+            'rating' => $city->rating
         ];
         return $this->presenter->present($data);
     }
