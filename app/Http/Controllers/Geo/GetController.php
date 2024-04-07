@@ -40,7 +40,8 @@ class GetController extends Controller
             $geo = $geo->where('city_id', '=', $request->city_id);
         }
         if(isset($request->search)) {
-            $geo = $geo->whereRelation('category', 'title', 'ILIKE', '%'.$request->search.'%');
+            $geo = $geo->whereRelation('category', 'title', 'ILIKE', '%'.$request->search.'%')
+                ->orWhere('name','ILIKE','%'.$request->search.'%');
         }
         $data = [
             "type" => "FeatureCollection",
